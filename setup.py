@@ -4,7 +4,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='MLXpress',
-    version='0.1.8',
+    version='0.1.8.5',
     author='vinilg7',
     author_email='vinilg7@gmail.com',
     description='A powerful and user-friendly machine learning toolkit for data science and ML professionals to accelerate their workflow',
