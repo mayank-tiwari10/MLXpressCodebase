@@ -7,14 +7,6 @@ Optional Arguments:
 pagerank: The user may pass a graph denoting the inital pagerank values to the argument. By default this value is set to 1.0 for all nodes.
 iterations: The user may pass an Integer value as an argument to specify number of iterations to be performed. By default this value is set to 10.
 df: The user may pass a floating point value to specify the damping_factor. By default this value is set to 0.85
-
-
-Examples:
-graph = {
-    'A' : ['B', 'C'],
-    'B' : ['C'],
-    'C' : ['A'],
-    'D' : ['C']
 }
 """
 

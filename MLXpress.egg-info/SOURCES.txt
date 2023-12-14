@@ -7,7 +7,6 @@ MLXpress/help.py
 MLXpress/iris.py
 MLXpress/math.py
 MLXpress/ml.py
-MLXpress/networkviz.py
 MLXpress/preprocessing.py
 MLXpress/stats.py
 MLXpress/wine.py
