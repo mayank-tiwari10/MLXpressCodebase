@@ -10,6 +10,7 @@ MLXpress/math.py
 MLXpress/ml.py
 MLXpress/preprocessing.py
 MLXpress/stats.py
+MLXpress/timeSeries.py
 MLXpress/wine.py
 MLXpress.egg-info/PKG-INFO
 MLXpress.egg-info/SOURCES.txt
