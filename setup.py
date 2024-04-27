@@ -4,7 +4,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='MLXpress',
-    version='0.1.9.0',
+    version='0.1.9.2',
     author='vinilg7',
     author_email='vinilg7@gmail.com',
     description='A powerful and user-friendly machine learning toolkit for data science and ML professionals to accelerate their workflow',
@@ -29,7 +29,7 @@ setup(
         'scipy',
         'yfinance',
         'ccxt',
-        'forex_python.converter',
+        'forex_python',
         'datetime'
 
 

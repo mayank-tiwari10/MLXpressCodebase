@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: MLXpress
-Version: 0.1.9.0
+Version: 0.1.9.2
 Summary: A powerful and user-friendly machine learning toolkit for data science and ML professionals to accelerate their workflow
 Author: vinilg7
 Author-email: vinilg7@gmail.com
@@ -18,7 +18,7 @@ Requires-Dist: numpy
 Requires-Dist: scipy
 Requires-Dist: yfinance
 Requires-Dist: ccxt
-Requires-Dist: forex_python.converter
+Requires-Dist: forex_python
 Requires-Dist: datetime
 
 MLXpress is a comprehensive and intuitive machine learning toolkit that simplifies the development and deployment of machine learning models. It offers a wide range of essential functionalities for data science and ML professionals, enabling a streamlined and efficient workflow. With MLXpress, you can easily implement commonly used data science and ML functionality, making complex tasks simpler and more accessible.
