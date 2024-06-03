@@ -4,6 +4,7 @@ MLXpress/__init__.py
 MLXpress/bigdata.py
 MLXpress/diabetes.py
 MLXpress/getdata.py
+MLXpress/gt.py
 MLXpress/help.py
 MLXpress/iris.py
 MLXpress/math.py
